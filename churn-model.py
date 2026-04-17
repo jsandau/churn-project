@@ -1,0 +1,1 @@
+## Define churn  -> churn = churn_flag in subscriptions 
